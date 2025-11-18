@@ -154,7 +154,8 @@ Additionally, as a **Research Assistant**, I focus on ethical and compliant work
   🔗 https://coursera.org/share/2cd417a9b68d7c4f29148029b61ee0fa
 - **Generative AI Fundamentals**   
   🔗 https://coursera.org/share/bc97bc4a9fa20484b88b352fcdc5cfde  
-- **AI Applications in Marketing and Finance** 
+- **AI Applications in Marketing and Finance**
+  
   🔗 https://coursera.org/share/edda7582c5ab101a0842fa1fa6d0112b  
 - **Finance & Accounting — Wharton Business School Micro Economics**  
   🔗 https://coursera.org/share/f2070703dd62fc1339f475ad451d7fe7  

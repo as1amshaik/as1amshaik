@@ -11,7 +11,7 @@
 ## 📌 About Me  
 I am a **Software Engineer, Research Engineer, and Mentor** with extensive experience designing **real-time pipelines, distributed systems, ML-ready architectures, and backend microservices** across healthcare, aviation, manufacturing, and climate science.
 
-I’m passionate about **guiding young engineers**—from mentoring interns in industry to teaching and shaping 100+ undergraduate students as a **Teaching Assistant for Software Systems** at Purdue University.
+I’m passionate about **guiding young engineers**—from mentoring interns in industry to teaching and shaping **100+ undergraduate students** as a **Teaching Assistant for Software Systems** at Purdue University.
 
 I am currently completing my **Master’s in Computer & Information Science at Purdue University (Jan 2024 – Dec 2025)** and am also **CITI Certified** for ethical research and data handling.
 
@@ -34,16 +34,16 @@ I am currently completing my **Master’s in Computer & Information Science at P
 ## 📂 Why My GitHub Has Fewer Personal Projects  
 I’ve spent most of my time working on **NSF-funded research**, **enterprise backend systems**, and **full-stack production ML pipelines**, which cannot be open-sourced.
 
-My focus has always been on **real-world systems**, not small hobby projects, including:
+I prioritize **real-world engineering** over building toy projects. My primary work involves:
 
 - Real-time remote health monitoring systems  
 - Distributed ML inference pipelines  
-- Manufacturing automation systems  
+- Production automation for manufacturing systems  
 - High-frequency Airflow ETLs  
-- CRM systems for banking  
-- Climate & precipitation modeling pipelines  
+- Banking CRM enterprise systems  
+- Climate modeling & causal analysis research  
 
-Additionally, as a **Research Assistant**, I prioritize ethical research, maintain confidentiality, and follow protocols—supported by completing **CITI Research Certifications**.
+Additionally, as a **Research Assistant**, I focus on ethical and compliant work — supported by my **CITI Research Certifications**.
 
 ---
 
@@ -87,9 +87,9 @@ Additionally, as a **Research Assistant**, I prioritize ethical research, mainta
 
   - Built a full ML classification platform using **OCR + ML + Python + Kafka + NGINX**.  
   - Automated manual page classification done by humans, integrating AWS Textract for text extraction.  
-  - Designed and built **ML dashboards** used for daily performance evaluation and monitoring.  
-  - **Mentored an intern** by guiding them in building the React frontend and teaching full-stack development concepts.  
-  - Designed the backend architecture and workflows powering the entire system.
+  - Designed and built **ML dashboards** for performance monitoring and evaluation.  
+  - **Mentored an intern**, guiding them through React frontend development and full-stack engineering principles.  
+  - Designed the backend architecture and workflows powering the platform.
 
 </details>
 
@@ -126,7 +126,7 @@ Additionally, as a **Research Assistant**, I prioritize ethical research, mainta
 
   - Analyzing precipitation recycling and farmland-loss impacts across the Midwest.  
   - Building large-scale pipelines for land-use and precipitation datasets (2000–2022).  
-  - Implementing moisture tracking models and causal inference methods.  
+  - Implementing moisture tracking models and causal inference methods (regression & Granger causality).  
   - Contributing to scientific reports, datasets, and research publications.
 
 </details>
@@ -137,18 +137,28 @@ Additionally, as a **Research Assistant**, I prioritize ethical research, mainta
 **Purdue University — Master’s in Computer & Information Science**  
 **Jan 2024 – Dec 2025**  
 - **Teaching Assistant for Software Systems (Aug 2024 – Present)**  
-  - Taught, mentored, and guided **100+ students** in C++ fundamentals, Java OOP, and software design.  
-  - Passionate about shaping young engineers and helping them grow.  
+  - Taught, mentored, and guided **100+ students** in C++, Java OOP, and systems fundamentals.  
+  - Passionate about shaping young minds and building strong software thinkers.  
 - Coursework: Distributed Systems, ML, Databases, Networks, XAI, Algorithms  
-- CITI Certified: Responsible Conduct of Research, Human Subjects & Data Ethics  
+- **CITI Certified**: Responsible Conduct of Research & Data Ethics  
 
 ---
 
-# 📊 GitHub Stats  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=as1amshaik&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=as1amshaik&layout=compact&theme=radical"/>
-</p>
+# 📜 Certifications & Continuous Learning  
+> **“Knowledge isn’t something I consume — it’s something I master.”**  
+> **“I invest deeply in skills that move systems, organizations, and people forward.”**
+
+### 🎓 **Professional Certifications**
+- **CITI Research Certification** — Ethical Research, Data Privacy, Human Subjects  
+- **Deep Learning Specialization – Neural Networks & Deep Learning**  
+  🔗 https://coursera.org/share/ea899a1f46e77f2c0e5d54e778e3b71c  
+- **Generative AI Fundamentals**   
+  🔗 https://coursera.org/share/bc97bc4a9fa20484b88b352fcdc5cfde  
+- **Machine Learning Foundations** 
+  🔗 https://coursera.org/share/edda7582c5ab101a0842fa1fa6d0112b  
+- **Finance & Accounting — Wharton Business School**  
+  🔗 https://coursera.org/share/f2070703dd62fc1339f475ad451d7fe7  
+  - Demonstrates strong interest in **financial markets**, valuation principles, and financial decision-making.
 
 ---
 

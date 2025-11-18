@@ -139,7 +139,7 @@ Additionally, as a **Research Assistant**, I focus on ethical and compliant work
 - **Teaching Assistant for Software Systems (Aug 2024 – Present)**  
   - Taught, mentored, and guided **100+ students** in C++, Java OOP, and systems fundamentals.  
   - Passionate about shaping young minds and building strong software thinkers.  
-- Coursework: Distributed Systems, ML, Databases, Networks, XAI, Algorithms  
+- Coursework: Distributed Systems, Deep Learning , Databases, Networks, XAI, Algorithms  
 - **CITI Certified**: Responsible Conduct of Research & Data Ethics  
 
 ---
@@ -154,11 +154,11 @@ Additionally, as a **Research Assistant**, I focus on ethical and compliant work
   🔗 https://coursera.org/share/ea899a1f46e77f2c0e5d54e778e3b71c  
 - **Generative AI Fundamentals**   
   🔗 https://coursera.org/share/bc97bc4a9fa20484b88b352fcdc5cfde  
-- **Machine Learning Foundations** 
+- **AI Applications in Marketing and Finance** 
   🔗 https://coursera.org/share/edda7582c5ab101a0842fa1fa6d0112b  
-- **Finance & Accounting — Wharton Business School**  
+- **Finance & Accounting — Wharton Business School Micro Economics**  
   🔗 https://coursera.org/share/f2070703dd62fc1339f475ad451d7fe7  
-  - Demonstrates strong interest in **financial markets**, valuation principles, and financial decision-making.
+
 
 ---
 

@@ -150,8 +150,8 @@ Additionally, as a **Research Assistant**, I focus on ethical and compliant work
 
 ### 🎓 **Professional Certifications**
 - **CITI Research Certification** — Ethical Research, Data Privacy, Human Subjects  
-- **Deep Learning Specialization – Neural Networks & Deep Learning**  
-  🔗 https://coursera.org/share/ea899a1f46e77f2c0e5d54e778e3b71c  
+- **Microservice Architecture**  
+  🔗 https://coursera.org/share/2cd417a9b68d7c4f29148029b61ee0fa
 - **Generative AI Fundamentals**   
   🔗 https://coursera.org/share/bc97bc4a9fa20484b88b352fcdc5cfde  
 - **AI Applications in Marketing and Finance** 
